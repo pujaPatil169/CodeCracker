@@ -1,0 +1,19 @@
+/* Existing styles... */
+
+.error-boundary {
+  padding: 2rem;
+  text-align: center;
+  color: #dc3545;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 8px;
+  margin: 2rem;
+}
+
+.error-boundary h2 {
+  margin-bottom: 1rem;
+}
+
+.error-boundary p {
+  margin: 0.5rem 0;
+}
